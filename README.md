@@ -17,8 +17,8 @@ Check out the stack I'm familiar with and currently learning.
 ## 📊 My Analytics
 
 <div style="display: flex; flex-direction: column; max-width: 50%; gap: 1rem">
-    <img src="https://github-readme-stats.vercel.app/api?username=leonardorsihd&show_icons=true&theme=nightowl" alt="Leo's Github stats card">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorsihd&layout=compact&langs_count=6&theme=nightowl" alt="Leo's Github top languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=leonardorsihd&show_icons=true&theme=dracula" alt="Leo's Github stats card">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorsihd&layout=compact&langs_count=6&theme=dracula" alt="Leo's Github top languages">
 </div>
 
 ## 📥 How can you reach me
