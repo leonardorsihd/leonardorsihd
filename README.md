@@ -1,8 +1,8 @@
 <div style="display: flex; align-items: center">
-    <h1 class="md-end-block md-heading">Hey there, Welcome to my bio</h1>
+    <h1 class="md-end-block md-heading">Hey there, welcome to my bio</h1>
 </div>
 I'm Leonardo Nunes, a MAGIC XPA and web developer who is passionate about technology and always interested in group work, 
-as I expand my network being able to share experiences and knowledge.
+as I expand my network being able to share experiences and knowledge.<br>
 
 I am currently studying **web development** as I learn new stacks in order to bring easy way outs to complicated scenarios.
 Soon you'll be able to see new projects I've been working on and contributing to using my tech stack to improve my code skills, stay tunned!!
@@ -12,7 +12,7 @@ Soon you'll be able to see new projects I've been working on and contributing to
 I do have a thing for **front-end** development however I'm focusing on becoming a **JS Fullstack Developer**. When you develop applications that are built on the same programming language on the client and server side it allows you to have a broader understanding of the project as a whole, adding flexibility. 
 Check out the stack I'm familiar with and currently learning.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-38406B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)    ![HTML5](https://img.shields.io/badge/-HTML-38406B?style=for-the-badge&logo=html5&logoColor=E34F26)    ![CSS3](https://img.shields.io/badge/-CSS-38406B?style=for-the-badge&logo=css3&logoColor=1572B6)   ![MySQL](https://img.shields.io/badge/-MySQL-38406B?style=for-the-badge&logo=mysql&logoColor=4479A1)    ![Git](https://img.shields.io/badge/-Git-38406B?style=for-the-badge&logo=git&logoColor=F05032)    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-38406B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)    ![PHP](https://img.shields.io/badge/-PHP-38406B?style=for-the-badge&logo=php&logoColor=#61DAFB)    ![Laravel](https://img.shields.io/badge/-Laravel-38406B?style=for-the-badge&logo=laravel&logoColor=#61DAFB)    ![DOTNET](https://img.shields.io/badge/-DOTNET-38406B?style=for-the-badge&logo=dotnet&logoColor=#61DAFB)    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-38406B?style=for-the-badge&logo=bootstrap&logoColor=#61DAFB)    ![ReactJS](https://img.shields.io/badge/-ReactJs-38406B?style=for-the-badge&logo=reactjs&logoColor=F7DF1E)    ![NodeJS](https://img.shields.io/badge/-NodeJs-38406B?style=for-the-badge&logo=nodejs&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/-JavaScript-38406B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)    ![HTML5](https://img.shields.io/badge/-HTML-38406B?style=for-the-badge&logo=html5&logoColor=E34F26)    ![CSS3](https://img.shields.io/badge/-CSS-38406B?style=for-the-badge&logo=css3&logoColor=1572B6)   ![MySQL](https://img.shields.io/badge/-MySQL-38406B?style=for-the-badge&logo=mysql&logoColor=4479A1)    ![Git](https://img.shields.io/badge/-Git-38406B?style=for-the-badge&logo=git&logoColor=F05032)    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-38406B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)    ![PHP](https://img.shields.io/badge/-PHP-38406B?style=for-the-badge&logo=php&logoColor=#61DAFB)    ![Laravel](https://img.shields.io/badge/-Laravel-38406B?style=for-the-badge&logo=laravel&logoColor=#61DAFB)    ![DOTNET](https://img.shields.io/badge/-DOTNET-38406B?style=for-the-badge&logo=dotnet&logoColor=#61DAFB)    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-38406B?style=for-the-badge&logo=bootstrap&logoColor=#61DAFB)    ![ReactJS](https://img.shields.io/badge/-ReactJs-38406B?style=for-the-badge&logo=react&logoColor=F7DF1E)    ![NodeJS](https://img.shields.io/badge/-NodeJs-38406B?style=for-the-badge&logo=node&logoColor=F7DF1E)
 
 ## 📊 My Analytics
 
